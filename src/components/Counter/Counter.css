@@ -1,0 +1,26 @@
+.Counter-Container {
+    background-color: whitesmoke;
+    height: 100%;
+    padding-top: 20px;
+}
+
+.Count-Label {
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.Counter-Btn {
+    display: inline-block;
+    color: #fff;
+    background-color: #6c757d;
+    border: 1px solid transparent;
+    border-color: #6c757d;
+    font-weight: 500;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    padding: 8px 16px;
+    margin: 10px;
+    font-size: 18px;
+    line-height: 1.5;
+}
